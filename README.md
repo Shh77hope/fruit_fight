@@ -8,6 +8,7 @@ Unique Characters: Choose from a variety of characters, each with different attr
 Dynamic Obstacles: Encounter various obstacles, such as fish and scythes, that add a strategic challenge.
 Power-ups and Bonuses: Gain extra points by collecting special items like fish.
 Pause and Menu: Easily pause the game and navigate through the menu options.
+
 How to Play
 Start the Game: From the main menu, click "START GAME" to begin.
 Controls:
@@ -19,12 +20,8 @@ Move: Arrow keys.
 Collect: Move towards fruits.
 Objective: Collect fruits to score points. The first player to reach 20 points wins!
 Pause Game: Press the ESC key to pause and resume the game.
+
 Installation
-Clone the Repository:
-bash
-Copy code
-git clone https://github.com/your-username/fruit-fight-game.git
-cd fruit-fight-game
 Install Dependencies: Ensure you have Python installed. Install Pygame using pip:
 bash
 Copy code
